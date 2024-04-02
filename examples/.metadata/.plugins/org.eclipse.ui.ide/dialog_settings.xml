@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\22_USB_VSP"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\21_2_LED_FLASH_APP"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\21_1_IAP_Bootloader"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\20_MALLOC"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\18_FLASH_EEPROM"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\17_3_DAC_Sine_Wave"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\17_2_DAC_Triangular_Wave"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\17_1_DAC_Output"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\16_ADC_Temperature"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\15_3_ADC_DMA_Multi_Channel"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\15_2_ADC_DMA_Single_Channel"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\15_1_ADC_Single_Channel"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\14_DMA"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\13_4_LowPower_Standby"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\13_3_LowPower_Stop"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\13_2_LowPower_Sleep"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\13_1_LowPower_PVD"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\12_RTC"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\11_USMART"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\10_TFTLCD_MCU"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\09_4_ATIM_PWM_IN"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\09_3_ATIM_CPLM_PWM"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\09_2_ATIM_Compare"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\09_1_ATIM_NPWM"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\08_4_GTIM_Count"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\08_3_GTIM_Capture"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\08_2_GTIM_PWM"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\08_1_GTIM_Interrupt"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\07_BTIM"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\06_WWDG"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\05_IWDG"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\04_UART"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\03_EXTI"/>
+			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\02_KEY"/>
+		</list>
+	</section>
+</section>
