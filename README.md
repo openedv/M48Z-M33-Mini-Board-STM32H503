@@ -55,6 +55,8 @@ If you have not set up **STM32CubeIDE** or can't use it, you will need to do so 
 
 ## 4 Accessories
 When using the MIni Board, you can use the following accessories.
-<a href="https://github.com/alientek-module/LCD-module_1.3-inch_ATK-MD0130"><img src="./1_docs/3_figures/image/1.3inchLCD.png" /></a>
 
+<a href="https://github.com/alientek-module/LCD-module_1.3-inch_ATK-MD0130"><img src="./1_docs/3_figures/image/1.3inchLCD.png" width="200" height="250" /></a>
+
+<a href="https://github.com/alientek-tools/DAP_Debugger"><img src="./1_docs/3_figures/image/Mini_HSDAP.png" width="200" height="250" /></a>
 
