@@ -53,3 +53,8 @@ There are up to **35** examples provided. Before learning each example, carefull
 ## 3 How to use STM32CubeIDE
 If you have not set up **STM32CubeIDE** or can't use it, you will need to do so following the [steps outlined in this tutorial](./1_docs/STM32CubeIDE_Usage_Guide.md).
 
+## 4 Accessories
+When using the MIni Board, you can use the following accessories.
+<a href="https://github.com/alientek-module/LCD-module_1.3-inch_ATK-MD0130"><img src="./1_docs/3_figures/image/1.3inchLCD.png" /></a>
+
+
