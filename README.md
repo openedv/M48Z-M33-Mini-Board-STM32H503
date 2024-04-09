@@ -24,7 +24,6 @@ M48Z-M33 Mini Board selects **STM32H503CBT6** as MCU, the chip integrates FPU in
 + **SWD debug port**: used for simulation debugging, downloading code, etc.;
 + **Reset button**: used to reset the Mini Board.
 
-
 ### 2.2 Software Resources
 
 There are up to **35** examples provided. Before learning each example, carefully read the **README.md**, which includes a brief introduction to the example function, hardware hookup, STM32CubeIDE configuration instructions, and running phenomena. Here are all the examples.
