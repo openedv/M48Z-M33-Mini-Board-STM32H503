@@ -691,3 +691,267 @@ java.lang.NullPointerException: Cannot enter synchronized block because "this.br
 	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
 	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
 	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SESSION 2024-04-09 19:06:11.817 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\01_LED\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\01_LED\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-04-09 19:06:27.730
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-04-09 19:06:27.736
+!MESSAGE Log4j2 initialized with config file F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-04-09 19:06:33.481
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.buildanalyzer.ui 1 0 2024-04-09 19:06:34.541
+!MESSAGE Failed to parse map file
+!STACK 0
+java.io.FileNotFoundException: F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\01_LED\Debug\01_LED.map (系统找不到指定的路径。)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:111)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at elf_analyzer.datamodel.BuildDataProviderMap.readFile(BuildDataProviderMap.java:55)
+	at elf_analyzer.datamodel.BuildDataProviderMap.compute(BuildDataProviderMap.java:358)
+	at elf_analyzer.datamodel.BuildDataProviderMap.computeMemConfig(BuildDataProviderMap.java:402)
+	at elf_analyzer.datamodel.BuildData.compute(BuildData.java:81)
+	at elf_analyzer.ElfAnalyzerView.inputChanged(ElfAnalyzerView.java:265)
+	at elf_analyzer.ElfAnalyzerView.lambda$7(ElfAnalyzerView.java:506)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY com.st.stm32cube.ide.mcu.buildanalyzer.ui 1 0 2024-04-09 19:06:35.735
+!MESSAGE Failed to parse map file
+!STACK 0
+java.io.FileNotFoundException: F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\01_LED\Debug\01_LED.map (系统找不到指定的路径。)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:111)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at elf_analyzer.datamodel.BuildDataProviderMap.readFile(BuildDataProviderMap.java:55)
+	at elf_analyzer.datamodel.BuildDataProviderMap.compute(BuildDataProviderMap.java:358)
+	at elf_analyzer.datamodel.BuildDataProviderMap.computeLinkerSymbols(BuildDataProviderMap.java:410)
+	at elf_analyzer.datamodel.BuildData.compute(BuildData.java:104)
+	at elf_analyzer.ElfAnalyzerView.inputChanged(ElfAnalyzerView.java:265)
+	at elf_analyzer.ElfAnalyzerView.lambda$7(ElfAnalyzerView.java:506)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-09 19:06:40.560
+!MESSAGE Indexed '01_LED' (42 sources, 149 headers) in 4.7 sec: 18,502 declarations; 75,703 references; 1 unresolved inclusions; 120 syntax errors; 247 unresolved names (0.26%)
+!SESSION 2024-04-11 17:58:12.079 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\13_1_LowPower_PVD\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\13_1_LowPower_PVD\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-04-11 17:58:31.870
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-04-11 17:58:31.882
+!MESSAGE Log4j2 initialized with config file F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:36.273
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:36.274
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:36.274
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:36.275
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-04-11 17:58:38.127
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-11 17:58:46.801
+!MESSAGE Indexed '13_1_LowPower_PVD' (46 sources, 154 headers) in 6.26 sec: 19,110 declarations; 85,221 references; 8 unresolved inclusions; 2,550 syntax errors; 2,452 unresolved names (2.3%)
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.418
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.418
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.418
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.419
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.453
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.453
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.454
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.454
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.455
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.455
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.455
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.456
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.456
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.456
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.457
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.457
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.457
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.458
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.458
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.458
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.459
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.459
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.459
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.459
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.460
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.460
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.460
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.461
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.462
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.462
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.462
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.463
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.612
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.613
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.614
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.614
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.615
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.615
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.616
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.616
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.617
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.617
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.618
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.619
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.619
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.620
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.620
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.620
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.621
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.621
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.622
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.622
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.623
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.623
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.623
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.624
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.624
+!MESSAGE System property http.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.624
+!MESSAGE System property http.proxyPort is set to 7890 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.625
+!MESSAGE System property https.proxyHost is set to 127.0.0.1 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.625
+!MESSAGE System property https.proxyPort is set to 7890 but should not be set.

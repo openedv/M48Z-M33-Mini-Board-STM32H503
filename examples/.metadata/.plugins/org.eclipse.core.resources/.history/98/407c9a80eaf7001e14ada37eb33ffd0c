@@ -1,0 +1,16 @@
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:241:19:HAL_DMA_Init	24	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:321:19:HAL_DMA_DeInit	24	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:461:19:HAL_DMA_Start	24	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:516:19:HAL_DMA_Start_IT	24	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:588:19:HAL_DMA_Abort	24	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:680:19:HAL_DMA_Abort_IT	16	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:716:19:HAL_DMA_PollForTransfer	40	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:888:6:HAL_DMA_IRQHandler	32	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:1140:19:HAL_DMA_RegisterCallback	32	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:1219:19:HAL_DMA_UnRegisterCallback	24	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:1327:22:HAL_DMA_GetState	16	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:1339:10:HAL_DMA_GetError	16	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:1383:19:HAL_DMA_ConfigChannelAttributes	24	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:1471:19:HAL_DMA_GetConfigChannelAttributes	32	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:1599:13:DMA_SetConfig	24	static
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_dma.c:1624:13:DMA_Init	24	static
