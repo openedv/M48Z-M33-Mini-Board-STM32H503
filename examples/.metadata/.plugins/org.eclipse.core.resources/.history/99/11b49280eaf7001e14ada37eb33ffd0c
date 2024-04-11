@@ -1,0 +1,4 @@
+../Core/Src/spi.c:30:6:MX_SPI1_Init	2
+../Core/Src/spi.c:72:6:HAL_SPI_MspInit	3
+../Core/Src/spi.c:121:6:HAL_SPI_MspDeInit	2
+../Core/Src/spi.c:152:6:spi1_write_data	1

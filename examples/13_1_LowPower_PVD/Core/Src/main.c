@@ -116,6 +116,7 @@ int main(void)
   MX_SPI1_Init();
   MX_USART1_UART_Init();
   /* USER CODE BEGIN 2 */
+  pwr_pvd_init(PWR_PVDLEVEL_5);
   stm32h503cb_show_mesg();
   lcd_init();
   lcd_show_string(0, 5, 240, 32, 32, "STM32H503CBT6", RED);

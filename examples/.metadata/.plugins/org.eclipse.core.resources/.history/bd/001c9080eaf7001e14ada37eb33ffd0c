@@ -1,0 +1,3 @@
+../BSP/PWR/pwr.c:39:6:pwr_pvd_init	1
+../BSP/PWR/pwr.c:58:6:PVD_IRQHandler	1
+../BSP/PWR/pwr.c:68:6:HAL_PWR_PVDCallback	2

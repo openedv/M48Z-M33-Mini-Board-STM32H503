@@ -1,0 +1,3 @@
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi_ex.c:75:19:HAL_SPIEx_FlushRxFifo	8
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi_ex.c:114:19:HAL_SPIEx_EnableLockConfiguration	4
+F:/CubeIDE/h503_Git/m48-m33-mini-board-stm32h503/libraries/Drivers/STM32H5xx_HAL_Driver/Src/stm32h5xx_hal_spi_ex.c:163:19:HAL_SPIEx_ConfigureUnderrun	5
