@@ -29,7 +29,7 @@ M48Z-M33 Mini Board selects **STM32H503CBT6** as MCU, the chip integrates FPU in
 There are up to **35** examples provided. Before learning each example, carefully read the **README.md**, which includes a brief introduction to the example function, hardware hookup, STM32CubeIDE configuration instructions, and running phenomena. Here are all the examples.
 
 | Num                  | Example Name                      | Num  | Example Name                                  |
-| -------------------- | --------------------------------- | ---- | ---------------------- |
+| -------------------- | --------------------------------- | ---- | ----------------------                |
 | 00                   | h503_test                         | 12   | 12_RTC                                           |
 | 01                   | 01_LED                            | 13_1 | 13_1_LowPower_PVD                                |
 | 02                   | 02_KEY                            | 13_2 | 13_2_LowPower_Sleep                              |

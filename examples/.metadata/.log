@@ -955,3 +955,22 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 F:\CubeIDE\h503_Git\m4
 
 !ENTRY org.eclipse.core.net 1 0 2024-04-11 17:58:49.625
 !MESSAGE System property https.proxyPort is set to 7890 but should not be set.
+!SESSION 2024-04-12 15:24:11.036 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\15_2_ADC_DMA_Single_Channel\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\15_2_ADC_DMA_Single_Channel\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-04-12 15:24:27.048
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-04-12 15:24:27.049
+!MESSAGE Log4j2 initialized with config file F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-04-12 15:24:33.463
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-04-12 15:24:41.568
+!MESSAGE Indexed '15_2_ADC_DMA_Single_Channel' (46 sources, 153 headers) in 2.78 sec: 19,236 declarations; 89,934 references; 1 unresolved inclusions; 120 syntax errors; 247 unresolved names (0.23%)
