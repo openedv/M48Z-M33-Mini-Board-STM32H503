@@ -99,7 +99,7 @@ void TIM2_IRQHandler(void)
 ```
 Note that since the interrupt service function is also defined in ``stm32h5xx_it.c``, the definition in ``stm32h5xx_it.c`` should be masked, as shown in the following figure:
 
-![ ](./1_docs/3_figures/11_USMART/usmart4.png)
+![](../../1_docs/3_figures/11_USMART/usmart4.png)
 
 Now that the porting of the USMART component is almost complete, you can add the debug functions to the **usmart_nametab** array in the ``usmart_config.c`` file .
 
