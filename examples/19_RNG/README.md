@@ -136,6 +136,7 @@ int main(void)
 ### 4 Running
 #### 4.1 Compile & Download
 After the compilation is complete, connect the DAP and the Mini Board, and then connect to the computer together to download the program to the Mini Board.
+
 #### 4.2 Phenomenon
 Press the reset button to restart the Mini Board, observe the LED flashing on the Mini Board, open the serial port and the host computer ATK-XCOM can see the prompt information of the experiment, indicating that the code download is successful. The host of the serial port will constantly display a random number from 0 to 9, and press the KEY0 button to generate a random number of 32 bits, as shown in the following figure:
 
