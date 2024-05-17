@@ -11,4 +11,7 @@
 			<item value="pwr_pvd_init"/>
 		</list>
 	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
+	</section>
 </section>

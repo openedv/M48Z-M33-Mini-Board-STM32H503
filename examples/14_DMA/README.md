@@ -14,7 +14,7 @@ The DMA used in this experiment is an on-chip resource of STM32H503, so there is
 ### 3 STM32CubeIDE Configuration
 
 
-We copy the **02_KEY** project and name both the project and the.ioc file **14_DMA**.Next we start the GPDMA configuration by double-clicking the **14_DMA.ioc** file.
+We copy the **04_UART** project and name both the project and the.ioc file **14_DMA**.Next we start the GPDMA configuration by double-clicking the **14_DMA.ioc** file.
 
 Open **System Core > GPDMA** as shown below.
 

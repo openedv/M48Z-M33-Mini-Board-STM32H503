@@ -1,0 +1,4 @@
+../Core/Src/main.c:73:6:stm32h503cb_show_mesg	1
+../Core/Src/main.c:90:5:main	1
+../Core/Src/main.c:142:6:SystemClock_Config	4
+../Core/Src/main.c:198:6:Error_Handler	1

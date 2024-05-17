@@ -9,6 +9,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\20_MALLOC"/>
+			<item value="F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU"/>
 			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\22_USB_VSP"/>
 			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\21_2_LED_FLASH_APP"/>
 			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\21_1_IAP_Bootloader"/>
@@ -43,6 +45,14 @@
 			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\04_UART"/>
 			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\03_EXTI"/>
 			<item value="F:\CubeIDE\h503_Git\oversea_stm32h503\examples\02_KEY"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="231"/>
+		<item key="DIALOG_Y_ORIGIN" value="246"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
 </section>

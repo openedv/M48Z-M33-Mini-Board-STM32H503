@@ -1,3 +1,0 @@
-../BSP/PWR/pwr.c:39:6:pwr_pvd_init	24	static
-../BSP/PWR/pwr.c:58:6:PVD_IRQHandler	8	static
-../BSP/PWR/pwr.c:68:6:HAL_PWR_PVDCallback	24	static

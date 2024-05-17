@@ -13,7 +13,7 @@ The ADC used in this experiment is an on-chip resource of STM32H503, so there is
 ### 3 STM32CubeIDE Configuration
 
 
-We copy the **02_KEY** project and name both the project and the.ioc file **15_1_ADC_Single_Channel**.Next we start the ADC configuration by double-clicking the **15_1_ADC_Single_Channel.ioc** file.
+We copy the **04_UART** project and name both the project and the.ioc file **15_1_ADC_Single_Channel**.Next we start the ADC configuration by double-clicking the **15_1_ADC_Single_Channel.ioc** file.
 
 In **Pinout&Configuration**, select PA1, set it as shown below.
 
